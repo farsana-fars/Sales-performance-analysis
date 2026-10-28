@@ -46,9 +46,9 @@ Corporate Sales and Online appear to be the largest channel contributors, at app
 
 ## Files Included
 
--`  `-dataset
--` ` - dashboard image
--` ` 
+-` sales excel project.xlsx `-project excel file
+-`sales performance.png` - dashboard image
+
 
 
 
